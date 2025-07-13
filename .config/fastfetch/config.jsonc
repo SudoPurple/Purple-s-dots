@@ -1,0 +1,98 @@
+//  purple's fastfetch made with love :)
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+    	"source": "/home/purplex/.config/fastfetch/kindpng_2055899.png",
+    	"type": "kitty",
+    	"height": 18,
+    	"padding": {
+    		"top": 2
+    	}
+    },
+    "display": {
+        "separator": " "
+    },
+    "modules": [
+	"break",
+        "break",
+        "break",
+	{
+            "type": "custom",
+            "format": "\u001b[1m \u001b[90mThe \u001b[90mworld \u001b[90mis \u001b[90moverflowing \u001b[90mwith \u001b[13msadness "
+        },
+	"break",
+	{
+            "type": "title",
+            "color": 30,
+	    "keyWidth": 10
+        },
+        "break",
+        {
+            "type": "os",
+            "key": " ",
+            "keyColor": "35",  // = color4
+        },
+        {
+            "type": "kernel",
+            "key": " ",
+            "keyColor": "35",
+        },
+        {
+            "type": "packages",
+            "format": "{} (pacman)",
+            "key": " ",
+            "keyColor": "35",  
+        },
+        {
+            "type": "shell",
+            "key": " ",
+            "keyColor": "35", 
+        },
+        {
+            "type": "terminal",
+            "key": " ",
+            "keyColor": "35", 
+        },
+        {
+            "type": "wm",
+            "key": " ",
+            "keyColor": "35", 
+        },
+        {
+            "type": "cursor",
+            "key": " ",
+            "keyColor": "35", 
+        },
+        {
+            "type": "terminalfont",
+            "key": " ",
+            "keyColor": "35", 
+        },
+        {
+            "type": "uptime",
+            "key": " ",
+            "keyColor": "35", 
+        },
+        {
+            "type": "datetime",
+            "format": "{1}-{3}-{11}",
+            "key": " ",
+            "keyColor": "35", 
+        },
+        {
+            "type": "media",
+            "key": "󰝚 ",
+            "keyColor": "35", 
+        },
+        {
+            "type": "player",
+            "key": " ",
+            "keyColor": "35", 
+        },
+        "break",
+        {
+        },
+        "break",
+        "break",
+    ]
+}
