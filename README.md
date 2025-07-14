@@ -15,7 +15,7 @@
 | $\color{Purple}\large{\textsf{Music Player}}$ | $\color{Red}\textsf{\textsf{Tauon}}$ |
 | $\color{Purple}\large{\textsf{File Manager}}$ | $\color{Red}\textsf{\textsf{Dolphin}}$ |
 =======
-| ------------ | --------------------- |
+| :------------: | :---------------------: |
 | <span style="color: red;">OS</span> | Arch |
 | <span style="color: red;">WM</span> | DWM  |
 | <span style="color: red;">shell</span> | zsh |
