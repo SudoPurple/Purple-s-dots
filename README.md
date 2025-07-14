@@ -3,7 +3,7 @@
 
 ## Additional system information:
 | Service | What I used |
-| ------------ | --------------------- |
+| :------------: | :---------------------: |
 | $\color{Purple}\large{\textsf{OS}}$ | $\color{Red}\textsf{\textsf{Arch}}$ |
 | $\color{Purple}\large{\textsf{WM}}$ | $\color{Red}\textsf{\textsf{DWM}}$  |
 | $\color{Purple}\large{\textsf{Shell}}$ | $\color{Red}\textsf{\textsf{ZSH}}$ |
